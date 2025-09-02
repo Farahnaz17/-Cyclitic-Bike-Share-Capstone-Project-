@@ -1,12 +1,12 @@
-🚲 Cyclistic Bike Share Capstone Project
+***Cyclistic Bike Share Capstone Project***
 
 
-*** Project Overview***
+**Project Overview**
 
 This project analyzes Cyclistic bike share data from 2019-2020 to understand rider behavior, usage patterns, and trends. The ultimate goal is to provide actionable insights to convert casual riders into annual members.
 
 
-*** Problem Statement***
+**Problem Statement:**
 
 How can Cyclistic increase annual memberships by converting casual riders into loyal, recurring members?
 
@@ -15,7 +15,6 @@ Casual riders tend to ride for leisure or occasional transportation.
 Members ride frequently, often commuting daily.
 
 Understanding differences can inform targeted marketing strategies.
-
 
 
 ***Tools & Data***
@@ -35,7 +34,6 @@ member_casual – rider type
 start_station_name / end_station_name – locations
 
 
-
 ***Data Cleaning & Preparation***
 
 Removed duplicates and incomplete trips
@@ -48,7 +46,7 @@ Created aggregated tables for comparing casual vs. member rides
 
 
 
-** Analysis & Insights**
+***Analysis & Insights***
 
 Key Questions Answered:
 
@@ -58,8 +56,6 @@ Key Questions Answered:
     
 3. How can Cyclistic use digital media to influence casual riders to become members?
    
-
-
 
 
 ***Insights:***
@@ -74,12 +70,10 @@ Tourist-heavy stations have higher casual rider concentration
 
 
 Tableau Dashboard:
-📈 View Dashboard  
+📈 View Dashboard  [ https://public.tableau.com/views/Divvyy2019-2020RideInsightsDashboard/Divy2019-2020Rideinsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ]
 
 
----
-
-📦 Deliverables
+***Deliverables**
 
 Cleaned SQL tables for analysis
 
@@ -88,10 +82,7 @@ Tableau dashboards visualizing patterns & trends
 Insights report highlighting recommendations for marketing
 
 
-
----
-
-💡 Recommendations
+***Recommendations**
 
 Target weekend casual riders with membership promotions
 
@@ -103,9 +94,7 @@ Highlight benefits of annual membership for leisure riders
 
 
 
----
-
-🔄 What I Would Do Differently
+***What I Would Do Differently:** 
 
 Include weather and event data for more context
 
