@@ -17,7 +17,7 @@ Members ride frequently, often commuting daily.
 Understanding differences can inform targeted marketing strategies.
 
 
-***Tools & Data***
+**Tools & Data**
 
 Data Source: Cyclistic bike share historical trip data
 Tools Used: SQL, Tableau, Excel
@@ -34,7 +34,7 @@ member_casual – rider type
 start_station_name / end_station_name – locations
 
 
-***Data Cleaning & Preparation***
+**Data Cleaning & Preparation**
 
 Removed duplicates and incomplete trips
 
@@ -46,7 +46,7 @@ Created aggregated tables for comparing casual vs. member rides
 
 
 
-**Analysis & Insights***
+**Analysis & Insights**
 
 Key Questions Answered:
 
@@ -58,7 +58,7 @@ Key Questions Answered:
    
 
 
-**Insights:***
+**Insights:**
 
 Casual riders peak on weekends; members peak weekdays
 
@@ -82,7 +82,7 @@ Tableau dashboards visualizing patterns & trends
 Insights report highlighting recommendations for marketing
 
 
-***Recommendations**
+**Recommendations**
 
 Target weekend casual riders with membership promotions
 
