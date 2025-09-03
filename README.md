@@ -46,7 +46,7 @@ Created aggregated tables for comparing casual vs. member rides
 
 
 
-***Analysis & Insights***
+**Analysis & Insights***
 
 Key Questions Answered:
 
@@ -58,7 +58,7 @@ Key Questions Answered:
    
 
 
-***Insights:***
+**Insights:***
 
 Casual riders peak on weekends; members peak weekdays
 
@@ -73,7 +73,7 @@ Tableau Dashboard:
 📈 View Dashboard  [ https://public.tableau.com/views/Divvyy2019-2020RideInsightsDashboard/Divy2019-2020Rideinsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ]
 
 
-***Deliverables**
+**Deliverables**
 
 Cleaned SQL tables for analysis
 
@@ -94,7 +94,7 @@ Highlight benefits of annual membership for leisure riders
 
 
 
-***What I Would Do Differently:** 
+**What I Would Do Differently:** 
 
 Include weather and event data for more context
 
